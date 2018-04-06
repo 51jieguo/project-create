@@ -108,8 +108,8 @@ public class ZipCompressor {
         }
     }
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         ZipCompressor zc = new  ZipCompressor("E:\\szhzip.zip");
         zc.compressExe("E:\\test");
-    }
+    }*/
 }
