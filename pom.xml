@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>cn.partytime</groupId>
-    <artifactId>danmu_client</artifactId>
+    <artifactId>project-create</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
